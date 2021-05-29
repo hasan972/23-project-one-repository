@@ -5,7 +5,7 @@ function App() {
   const [question, setQuestion] = useState(data)
   return (<main>
     <div className='container'>
-      <h3>Question and answer about you</h3>
+      <h3>আপনার সম্পর্কে প্রশ্নোত্তর</h3>
       <section className='info'>
         {question.map((question) => {
           return <SingleQuestion key={question.id} {...question} />
