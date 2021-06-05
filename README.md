@@ -16,6 +16,10 @@
 # 7-slider-->>
 ![ss](https://user-images.githubusercontent.com/49594744/120692197-45981f00-c4c9-11eb-842d-d5cfb3f747af.PNG)
 ![s](https://user-images.githubusercontent.com/49594744/120692205-48930f80-c4c9-11eb-9be7-54962257dc38.PNG)
+# 8-random->>Generate random paragraph->>
+![ee](https://user-images.githubusercontent.com/49594744/120900806-c89baf80-c658-11eb-83ed-2db23b828557.PNG)
+![eet](https://user-images.githubusercontent.com/49594744/120900804-c6d1ec00-c658-11eb-928e-8a0c6256f647.PNG)
+
 
 
 
