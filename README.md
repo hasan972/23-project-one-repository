@@ -10,9 +10,13 @@
 # 5-menu-->>
 ![w](https://user-images.githubusercontent.com/49594744/120116079-36069680-c1a8-11eb-9137-cb6d9d1f11b3.PNG)
 ![ww](https://user-images.githubusercontent.com/49594744/120116075-33a43c80-c1a8-11eb-9417-dd5c2b3d1575.PNG)
-# 6-tab
+# 6-tab-->>
 ![tt](https://user-images.githubusercontent.com/49594744/120234015-e04def00-c278-11eb-984e-c22f821a2d2e.PNG)
 ![ttu](https://user-images.githubusercontent.com/49594744/120234011-df1cc200-c278-11eb-82ba-9f94ba80dbfc.PNG)
+# 7-slider-->>
+![ss](https://user-images.githubusercontent.com/49594744/120692197-45981f00-c4c9-11eb-842d-d5cfb3f747af.PNG)
+![s](https://user-images.githubusercontent.com/49594744/120692205-48930f80-c4c9-11eb-9be7-54962257dc38.PNG)
+
 
 
 
