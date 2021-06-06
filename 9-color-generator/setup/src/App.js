@@ -10,20 +10,36 @@ function App() {
 
   const handelSubmit = (e) => {
     e.preventDefault();
-    let colors = new Values(color).all(10);
-    console.log(colors)
+    try {
+      let colors = new Values(color).all(10);
+      setList(colors)
+    } catch (error) {
+      setError(true)
+      console.log(error)
+    }
+
   }
   return (
     <>
       <section className="container">
         <h3>Simple color genarator</h3>
         <form onSubmit={handelSubmit}>
-          <input type="text" value={color} onChange={(e) => setColor(e.target.value)} placeholder="#fff" />
+          <input type="text" value={color} onChange={(e) => setColor(e.target.value)} placeholder="#fff"
+            className={`${error ? 'error' : null}`} />
           <button className="btn" type="submit">Submit</button>
         </form>
       </section>
-      <section className="colors">
-        <h4>List of hare</h4>
+      <section className='colors'>
+        {list.map((color, index) => {
+          return (
+            <SingleColor
+              key={index}
+              {...color}
+              index={index}
+              hexColor={color.hex}
+            />
+          )
+        })}
       </section>
     </>
   )
