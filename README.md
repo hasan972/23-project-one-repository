@@ -19,6 +19,11 @@
 # 8-random->>Generate random paragraph->>
 ![ee](https://user-images.githubusercontent.com/49594744/120900806-c89baf80-c658-11eb-83ed-2db23b828557.PNG)
 ![eet](https://user-images.githubusercontent.com/49594744/120900804-c6d1ec00-c658-11eb-928e-8a0c6256f647.PNG)
+# 9-color generator-->>
+![color](https://user-images.githubusercontent.com/49594744/121070746-ebf96280-c7f0-11eb-9570-51771321c2f2.PNG)
+Copy the color for simple click..
+![color2](https://user-images.githubusercontent.com/49594744/121070739-ea2f9f00-c7f0-11eb-8a95-b24186976ecd.PNG)
+
 
 
 
